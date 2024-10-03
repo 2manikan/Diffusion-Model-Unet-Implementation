@@ -8,6 +8,6 @@ A modified U-Net architecture implementation written from scratch with Residual 
 The same training procedure from the IADB(Iterative a-Deblending) model was used to train the U-Net. The model was used on rip current data from the Webcam Coastal Observation System to generate cloudy ocean images to create a dataset for future deep learning. The generation sequence is included.
 
 Credits:
-https://github.com/huggingface/diffusers/tree/main
-https://github.com/tchambon/IADB
+https://github.com/huggingface/diffusers/tree/main,
+https://github.com/tchambon/IADB,
 https://webcoos.org/
