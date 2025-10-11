@@ -1,5 +1,9 @@
 # Diffusion-Model-Unet-Implementation
 
+
+![TinyImage Compressor (Community) (Community) (3)](https://github.com/user-attachments/assets/7ad57a97-3b1b-4fec-ba4b-28e6d9e9f217)
+
+
 A modified U-Net architecture implementation written from scratch with Residual Blocks as layers and timestep conditioning. It is a simple use-case of the Hugging Face Diffusion Model U-Net (UNet2DModel) and provides the following additional benefits:
         (1) Skip Connection Architecture Customization/Modification
         (2) Customization of the Middle Block Structure
